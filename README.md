@@ -15,3 +15,5 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 리디바탕의 저작권은 리디주식회사가 소유하고 있습니다.
 
 Android, iOS 리디북스 앱과 PAPER를 최신 버전으로 업데이트하여 리디바탕을 사용해보세요.
+
+[https://ridicorp.com/ridibatang](https://ridicorp.com/ridibatang)
