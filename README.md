@@ -1,4 +1,4 @@
-# 리디바탕-9% (RidibatangGap9)
+# 리디바탕-9% (RIDIBatangGap9.otf)
 
 > 리디바탕 글꼴의 eBook리더 가독성 향상 버전  
 > ridibagang-9 RidibatangGap9
@@ -53,5 +53,5 @@
 > Android, iOS 리디북스 앱과 PAPER를 최신 버전으로 업데이트하여 리디바탕을 사용해보세요.  
 > [https://ridicorp.com/ridibatang](https://ridicorp.com/ridibatang)
 > 
-> Github에서 ridibatang-9가 업데이트 됩니다.  
+> Github에서 ridibatang-9을 업데이트 됩니다.  
 > [https://github.com/mcnorton/ridibatang-9](https://github.com/mcnorton/ridibatang-9)
