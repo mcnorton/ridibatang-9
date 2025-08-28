@@ -1,6 +1,14 @@
-# 리디바탕-9% (RIDIBatangGap9.otf)
+# 리디바탕-9% (RIDIBatang-9.otf)
 
 > 리디바탕 글꼴의 eBook 리더 가독성 향상 버전
+
+## Thanks
+
+- 개인적으로 사용하던 글꼴을 공유했을 뿐인데 이렇게 많은 관심을 보여주실 줄 몰랐습니다.
+- 디지털감성 e북카페 회원분들께 감사드립니다.
+- 자간이 다른 두 종류의 글꼴을 추가로 공유합니다.
+  - RIDIBatang-5.otf
+  - RIDIBatang-7.otf
 
 ## Feature
 
@@ -18,10 +26,13 @@
 
 ## Download
 
-- 1.0.0 (.otf)
-  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.0.0/RIDIBatangGap9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.0.0/RIDIBatangGap9.otf)
+- 1.1.0 (.otf)
+  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf)
+  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
+  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
   - 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 .otf 파일을 직접 받아 사용자글꼴로 RIDIBatangGap9.otf를 설정하면 됩니다.
-- 1.0.0 (.zip)
+  - 9, 7, 5 세 종류를 한 번 적용해 보시고, 가장 글이 잘 읽히는 글꼴을 사용하시면 됩니다.
+- 1.1.0 (.zip)
   - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
   - .otf 파일을 시스템 보안 문제로 직접 내려받지 못하는 경우 Source(.zip)를 압축해제 후 사용하시면 됩니다.
 
