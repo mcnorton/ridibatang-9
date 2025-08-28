@@ -21,6 +21,7 @@
 - 1.0.0 (.zip)
   - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
   - Source(.zip) 파일을 내려받으시면 됩니다.
+  - 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 아래 .otf 파일을 직접 내려받아 사용하세요.
 - 1.0.0 (.otf)
   - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.0.0/RIDIBatangGap9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.0.0/RIDIBatangGap9.otf)
   - 전자책 리더와 태블릿에 직접 내려받을 수 있습니다.
