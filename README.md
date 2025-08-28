@@ -17,7 +17,7 @@
 - 자간을 줄이면 '모기'의 모음 'ㅗ'와 자음 'ㄱ'의 거리가 멀어 모래알처럼 흩어져보이는 현상을 줄일 수 있습니다.
 - 비록 '울릉도'를 표현할 때 가로 모음이 맞닿긴 하지만, 알아보지 못할 정도로 간섭하지 않습니다.
 - 자간 -5%, -7% 를 제작하여 테스트하였으나, **eBook 리더**에서 가장 보기 좋았던 **-9%** 를 공개합니다.
-- 완성형 **한글**의 자간만 조정하였습니다.
+- **한글**의 자간만 조정하였습니다.
 - **띄어쓰기, 영문, 기호, 한자, 일본어**는 획이 달라붙어 오히려 가독성이 떨어지므로 **적용하지 않았습니다.**
 
 ## Compare
@@ -27,11 +27,11 @@
 ## Download
 
 - 1.1.0 (.otf)
-  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf)
-  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
-  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
-  - 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 .otf 파일을 직접 받아 사용자글꼴로 RIDIBatangGap9.otf를 설정하면 됩니다.
-  - 9, 7, 5 세 종류를 한 번 적용해 보시고, 가장 글이 잘 읽히는 글꼴을 사용하시면 됩니다.
+  - [(-9%) v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf)
+  - [(-7%) v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
+  - [(-5%) v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
+  - 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 .otf 파일을 직접 내려받아 사용자글꼴로 설정하면 됩니다.
+  - 9, 7, 5 세 종류를 한 번 적용해 보시고, 글이 가장 잘 읽히는 글꼴을 사용하시면 됩니다.
 - 1.1.0 (.zip)
   - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
   - .otf 파일을 시스템 보안 문제로 직접 내려받지 못하는 경우 Source(.zip)를 압축해제 후 사용하시면 됩니다.
