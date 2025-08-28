@@ -36,13 +36,6 @@
   - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
   - .otf 파일을 시스템 보안 문제로 직접 내려받지 못하는 경우 Source(.zip)를 압축해제 후 사용하시면 됩니다.
 
-## Known issues
-
-- 리디바탕 글꼴이 시스템에 이미 설치되어 있는 상태에서 추가로 설치할 경우, 이름이 중복되어 대치되는 문제.
-- 개인 + 전자책리더 + 도서앱 전용으로 사용할 목적이어서 네이밍까지 굳이 신경써서 변경하지 않았음.
-- 개선할 필요가 있긴 함.
-- RIDI에서 공식적으로 자간줄인 글꼴을 배포해주면 좋겠음.
-
 ## License
 
 ### 리디바탕-9 글꼴
