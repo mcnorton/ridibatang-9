@@ -55,7 +55,7 @@
 > 라이선스 전문을 포함하기 어려울 경우, 리디바탕 글꼴의 출처 표기를 권장합니다.  
 > 예) **이 페이지는 리디주식회사에서 제공한 리디바탕 글꼴이 사용되어 있습니다.**
 
-### URL
+## URL
 > Android, iOS 리디북스 앱과 PAPER를 최신 버전으로 업데이트하여 리디바탕을 사용해보세요.  
 > [https://ridicorp.com/ridibatang](https://ridicorp.com/ridibatang)
 > 
