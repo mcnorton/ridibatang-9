@@ -1,9 +1,9 @@
 # 리디바탕-9% (RIDIBatangGap9.otf)
 
-> 리디바탕 글꼴의 eBook리더 가독성 향상 버전  
-> ridibagang-9 RidibatangGap9
+> 리디바탕 글꼴의 eBook 리더 가독성 향상 버전
 
 ## Feature
+
 - eBook리더의 가독성을 높이기 위해 한글자간 -9% 줄인 리디바탕체 글꼴입니다.
 - 실제 종이로 된 한글 인쇄물을 편집할 때에도 일반적으로 자간을 줄여 가독성을 높입니다.
 - '거간꾼'의 '거'와 '간'처럼 한글의 특성상 글자간격이 벌어져 모래알처럼 흩어져보이는 현상을 줄입니다.
@@ -24,6 +24,12 @@
 - 1.0.0 (.zip)
   - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
   - .otf 파일을 시스템 보안 문제로 직접 내려받지 못하는 경우 Source(.zip)를 압축해제 후 사용하시면 됩니다.
+
+## Known issues
+
+- 리디바탕 글꼴이 시스템에 이미 설치되어 있는 상태에서 추가로 설치할 경우, 이름이 중복되어 대치되는 문제.
+- 개인 + 전자책리더 + 도서앱 전용으로 사용할 목적이어서 네이밍까지 굳이 신경써서 변경하지 않았음.
+- RIDI에서 공식적으로 자간줄인 글꼴을 배포해주면 좋겠음.
 
 ## License
 
@@ -55,3 +61,4 @@
 > 
 > Github에서 ridibatang-9을 업데이트 됩니다.  
 > [https://github.com/mcnorton/ridibatang-9](https://github.com/mcnorton/ridibatang-9)
+
