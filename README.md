@@ -18,9 +18,13 @@
 
 ## Download
 
-- 1.0.0
+- 1.0.0 (.zip)
   - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
   - Source(.zip) 파일을 내려받으시면 됩니다.
+- 1.0.0 (.otf)
+  - [https://github.com/mcnorton/ridibatang-9/releases/download/v1.0.0/RIDIBatangGap9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.0.0/RIDIBatangGap9.otf)
+  - 전자책 리더와 태블릿에 직접 내려받을 수 있습니다.
+  - 앱에서 사용자글꼴 추가하기 편리합니다.
 
 ## License
 
