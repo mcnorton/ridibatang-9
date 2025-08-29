@@ -75,9 +75,11 @@
 
 ---
 
-# 자매품
+## One more thing...
+
+### 자매품
 
 [<img width="240" height="81" alt="한국역사연표-배너" src="https://github.com/user-attachments/assets/de1772e9-fbec-49bb-b5f8-fe3b5b83eec8" />](https://mcnorton.github.io/korea_history/)  
 
-- 지성인들의 전자책 필수템  
+- 지성인과 학생들의 전자책, 스마트폰, 태블릿 필수템  
 - 구글 플레이스토어, 애플 앱스토어 동시 출시
