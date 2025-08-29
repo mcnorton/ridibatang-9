@@ -1,6 +1,7 @@
 # 리디바탕-9% (RIDIBatang-9.otf)
 
-> 리디바탕 글꼴의 eBook 리더 가독성 향상 버전
+> 리디바탕 글꼴의 자간을 전자책 리더에 맞게 조절한 가독성 향상 버전  
+> (주의) 한 번 써보면 다른 글꼴로 넘어갈 수 없음
 
 ## Thanks
 
@@ -22,19 +23,24 @@
 
 ## Compare
 
-<img width="100%" alt="compare-1024x" src="https://github.com/user-attachments/assets/02aa5a71-e1c6-400e-8fc5-9d519bbc4f3d" />
+<img width="100%" alt="compare-1024x" src="https://github.com/user-attachments/assets/02aa5a71-e1c6-400e-8fc5-9d519bbc4f3d" />  
+
+- 이미지에 나타난 파일명이 RIDIBatang-9.otf로 변경되었습니다. (참고만 하세요)
+- 마치 종이책과 유사하게 전체적으로 조밀해지고 띄어쓰기가 잘 구분되어서, 흩어진 단어를 찾게되는 피로감이 줄어듭니다.
 
 ## Download
 
-- 1.1.0 (.otf)
-  - [(-9%) v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf)
-  - [(-7%) v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
-  - [(-5%) v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
+### v1.1.0 (.otf)
+- [(-9%) v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf) (추천)
+- [(-7%) v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
+- [(-5%) v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
   - 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 .otf 파일을 직접 내려받아 사용자글꼴로 설정하면 됩니다.
   - 9, 7, 5 세 종류를 한 번 적용해 보시고, 글이 가장 잘 읽히는 글꼴을 사용하시면 됩니다.
-- 1.1.0 (.zip)
-  - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
-  - .otf 파일을 시스템 보안 문제로 직접 내려받지 못하는 경우 Source(.zip)를 압축해제 후 사용하시면 됩니다.
+
+### v1.1.0 (.zip)
+- [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
+  - .otf 파일을 직접 내려받으면 시스템 보안정책으로 문제가 발생하는 경우에는 Source(.zip)를 받아 압축해제 후 사용하시면 됩니다.
+  - README는 GitHub 페이지가 가장 최신입니다. 포함된 파일은 참고만 하세요.
 
 ## License
 
