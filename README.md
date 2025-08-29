@@ -11,6 +11,8 @@
   - RIDIBatang-5.otf
   - RIDIBatang-7.otf
 
+---
+
 ## Feature
 
 - eBook리더의 가독성을 높이기 위해 한글자간 -9% 줄인 리디바탕체 글꼴입니다.
