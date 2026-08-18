@@ -1,15 +1,24 @@
-# 리디바탕 -9% (RIDIBatang-9.otf)
+# 리디바탕 -9%
 
-> 리디바탕 글꼴의 자간을 전자책 리더에 맞게 -9% 좁게 조절한 가독성 향상 버전  
-> (주의) 한 번 써보면 다른 글꼴로 넘어갈 수 없음
+> 리디바탕 글꼴의 자간을 전자책 리더에 맞게 -9% 자간을 좁게 조정한 가독성 향상 버전.  
+> (주의) 한 번 사용해 보면, 너무 술술 읽혀서 다른 글꼴로 넘어갈 수 없게 됨.  
+> RIDIBatangLSHSans : **가장 완성도 높은 리디바탕체 글꼴을 작업 추가** (/font-LSHSans 추천)
 
 ## Thanks
 
 - 개인적으로 사용하던 글꼴을 공유했을 뿐인데 이렇게 많은 관심을 보여주실 줄 몰랐습니다.
 - 디지털감성 e북카페 회원분들께 감사드립니다.
-- 자간이 다른 두 종류의 글꼴을 추가로 공유합니다.
-  - RIDIBatang-5.otf
-  - RIDIBatang-7.otf
+- v1.1.0 자간이 다른 두 종류의 글꼴을 추가로 공유합니다.
+  - /fonts
+    - RIDIBatang-9.otf
+    - RIDIBatang-7.otf (추가)
+    - RIDIBatang-5.otf (추가)
+- v1.2.0 네이버 디지털감성e북카페 @이방인 님의 리디바탕 수정 글꼴의 자간조정 글꼴을 추가합니다.
+  - /fonts-LSHSans
+    - RIDIBatangLSHSans-9.ttf
+    - RIDIBatangLSHSans-7.ttf
+    - RIDIBatangLSHSans-5.ttf
+
 
 ---
 
@@ -25,12 +34,34 @@
 
 ## Compare
 
-<img width="100%" alt="compare-1024x" src="https://github.com/user-attachments/assets/02aa5a71-e1c6-400e-8fc5-9d519bbc4f3d" />  
+### RIDIBatang-9 vs. RIDIBatang
+
+<img width="100%" alt="RIDIBatang-9 vs RIDIBatang" src="https://github.com/user-attachments/assets/02aa5a71-e1c6-400e-8fc5-9d519bbc4f3d" />  
 
 - 이미지에 나타난 파일명이 RIDIBatang-9.otf로 변경되었습니다. (참고만 하세요)
 - 마치 종이책과 유사하게 전체적으로 조밀해지고 띄어쓰기가 잘 구분되어서, 흩어진 단어를 찾게되는 피로감이 줄어듭니다.
 
+### RIDIBatang-9
+
+<img width="100%" height="2678" alt="RIDIBatang-9" src="https://github.com/user-attachments/assets/3b227f7c-35d9-432a-ae56-90c8e313674f" />
+
+- RIDIBatang-9 는 시스템 한자 글꼴을 그대로 사용합니다.
+- 전체적으로 통통한 리디바탕체와 이질감이 느껴집니다.
+
+### RIDIBatangLSHSans-9 (완성)
+
+<img width="100%" height="2688" alt="RIDIBatangLSHSans-9" src="https://github.com/user-attachments/assets/1d0c8bfc-3b94-428c-ab19-6d04dc50e15d" />
+
+- RIDIBatang-9 는 본고딕K 한자가 포함되어 있습니다.
+- 리디바탕체와 잘 어울립니다.
+
 ## Download
+
+### v1.2.0 (+LSHSans)
+- 네이버 디지털감성e북카페 @이방인 님의 리디바탕 수정 글꼴 [v.1.001] 리디바탕 + 본고딕K 한자 + Literata 베이스 자간조정하여 추가
+  - /fonts : RIDIBatang.otf
+  - **/fonts-LSHSans** : RIDIBatangLSHSans.ttf
+- 리디바탕체와 잘 어울리는 본고딕K한자가 추가되어 보기 좋아짐.
 
 ### v1.1.0 (.otf)
 - [(-9%) v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf) (추천)
