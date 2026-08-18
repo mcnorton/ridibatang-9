@@ -58,17 +58,24 @@
 ## Download
 
 ### v1.2.0 (+LSHSans)
+- 전자책 리더기에서 직접 내려받아 글꼴을 추가하기 쉽도록 링크를 따로 분리해서 올립니다.
+- DownLoad(.zip) [v1.2.0](https://github.com/mcnorton/ridibatang-9/archive/refs/tags/v1.2.0.zip) 전체 파일
+  - [(-9%) v1.2.0/RIDIBatangLSHSans-9.ttf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.2.0/RIDIBatangLSHSans-9.ttf) (강력추천)
+  - [(-7%) v1.2.0/RIDIBatangLSHSans-7.ttf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.2.0/RIDIBatangLSHSans-7.ttf)
+  - [(-5%) v1.2.0/RIDIBatangLSHSans-5.ttf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.2.0/RIDIBatangLSHSans-5.ttf)
 - 네이버 디지털감성e북카페 @이방인 님의 리디바탕 수정 글꼴 [v.1.001] 리디바탕 + 본고딕K 한자 + Literata 베이스 자간조정하여 추가
   - /fonts : RIDIBatang.otf
   - **/fonts-LSHSans** : RIDIBatangLSHSans.ttf
 - 리디바탕체와 잘 어울리는 본고딕K한자가 추가되어 보기 좋아짐.
 
 ### v1.1.0 (.otf)
-- [(-9%) v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf) (추천)
-- [(-7%) v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
-- [(-5%) v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
-  - 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 .otf 파일을 직접 내려받아 사용자글꼴로 설정하면 됩니다.
-  - 9, 7, 5 세 종류를 한 번 적용해 보시고, 글이 가장 잘 읽히는 글꼴을 사용하시면 됩니다.
+- 전자책 리더기에서 직접 내려받아 글꼴을 추가하기 쉽도록 링크를 따로 분리해서 올립니다.
+- DownLoad
+  - [(-9%) v1.1.0/RIDIBatang-9.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-9.otf) (추천)
+  - [(-7%) v1.1.0/RIDIBatang-7.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-7.otf)
+  - [(-5%) v1.1.0/RIDIBatang-5.otf](https://github.com/mcnorton/ridibatang-9/releases/download/v1.1.0/RIDIBatang-5.otf)
+- 전자책 리더와 태블릿 중에 압축해제가 어려운 기기에서는 .otf 파일을 직접 내려받아 사용자글꼴로 설정하면 됩니다.
+- 9, 7, 5 세 종류를 한 번 적용해 보시고, 글이 가장 잘 읽히는 글꼴을 사용하시면 됩니다.
 
 ### v1.1.0 (.zip)
 - [https://github.com/mcnorton/ridibatang-9/releases](https://github.com/mcnorton/ridibatang-9/releases)
